@@ -1,2 +1,3 @@
 //Teste
-console.log ("Oi");
+let nome = "Rodrigo"
+console.log (nome)
